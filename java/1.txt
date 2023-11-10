@@ -1,0 +1,22 @@
+{
+    "headTenantId": "000",
+    "headChannel": "11",
+    "headOrgNo": "00000",
+    "headCustNo": "00010REG0623666",
+    "headUserNo": "8627e88fd5c54fd297d9c43cce9928f4",
+    "headTrCode": "03120100C3053",
+    "headTrDate": "20230606",
+    "headTrTime": "104000",
+    "headSerialNo": "000202306060000018196",
+    "headReqDate": "20230606",
+    "headReqTime": "104000",
+    "headReqSerialNo": "sETHsRJNFnmJwNrPhxkKjZ",
+    "headOrigDate": "20230606",
+    "headOrigTime": "104000",
+    "headOrigSerialNo": "sETHsRJNFnmJwNrPhxkKjZ",
+    "language": "zh_CN",
+    "respType": "F",
+    "respStatus": "F",
+    "respCode": "2TB320312902082",
+    "respMsg": "您的商家权益受限，当前流程将被终止。"
+}
